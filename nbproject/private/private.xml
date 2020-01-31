@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Dao/userDao.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/template/include/menu.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/resources/css/layout.css</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/front/iletisim.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/secret/dosya.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/front/arama.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/front/hakkimizda.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Util/fileServlet.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Converter/dosyaConverter.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/secret/ucus.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Controller/dosyaController.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/template/template.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/resources/css/global.css</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/secret/havaalani.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/front/havaalanlari.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/template/template1.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Controller/navigationController.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/havaYoluSirketi.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/template/include/menu1.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Controller/havaBilgiController.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/resources/css/style.css</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Controller/ucusController.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/secret/user.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/front/anasayfa.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Dao/havaYoluSirketiDao.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/dosya.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Converter/sirketConverter.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Dao/HavaalaniDao.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/adminGirisi.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/ucak.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Controller/loginController.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/web/secret/calisan.xhtml</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/grup.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/havaalaniVeri.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Dao/ucusDao.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/user.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Controller/aramaController.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Util/loginFilter.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Util/fileValidator.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Dao/calisanDao.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Entitiy/ucus.java</file>
+            <file>file:/C:/Users/ABRA/Desktop/HavaAlaniSistem/src/java/Converter/havaAlaniConverter.java</file>
+        </group>
+    </open-files>
+</project-private>

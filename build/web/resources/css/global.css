@@ -1,0 +1,46 @@
+xhtml,*{padding:0;margin: 0;border: 0;}
+h:body{background:#d9dee0 url(img/body_bg.gif) repeat-x 0 0;font:normal 12px/18px Arial,sans-serif; color:#464646;}
+a{text-decoration: none;color: #ff7c00;}
+a.intern{color:#000;font-weight:bold;}
+h1{font-size: 18px;color:#000;margin: 21px 0 17px;padding:4px 0;background: transparent url(img/h1_arrow.png) no-repeat 99% 0;}
+h2{font-size: 14px;color:#ff7c00;}
+p {margin:9px 0;}
+ul{list-style-type: none;margin:9px 0 9px 5px;}
+ul li{background:transparent url(img/list_dot.gif) no-repeat 0 6px;padding:0 0 0 11px;}
+#wrap{width:1000px;margin:0px auto;}
+.col_left{width:171px;margin:0 26px 0 0;float: left;}
+.col_right{width:803px;float: left;}
+
+#logo_box{background:#000 url(img/logo_box.gif) no-repeat 0 100%;text-align: center;}
+#logo_box h1{color:#ff7c00;font-size: 36px;line-height: 38px; padding:0;margin:0;background:none;}
+#logo_box h1 a{display: block;padding:94px 0 23px 0;}
+#logo_box h1 span{color:#fff;}
+
+#nav{list-style-type: none;margin:18px 0;}
+#nav li{background: none;padding:0;}
+#nav li a{color:#000;font-weight: bold; display: block;padding:6px 12px; background: none;}
+#nav li a:hover{color:#ff7c00;}
+#nav li.active a{color:#ff7c00;background: transparent url(img/nav_active.gif) no-repeat 0 0;}
+
+#contact_box{background: transparent url(img/contact_box.gof) no-repeat 0 0;position: relative; height:375px;}
+#address{position: absolute;left:23px;bottom: 16px;}
+
+#head_image{position: relative;margin:0 0 13px 0;}
+/*
+#image_overlay{padding:15px 57px 0 0; position:absolute;right:23px;top:50px;font-size: 30px;color:#fff;line-height: 23px;text-align: right;background: transparent url(img/white_dot.png) no-repeat 100% 13px;}
+#image_overlay span{font-size: 48px; font-weight: bold; color:#fff;opacity: 0.24; filter:alpha(opacity=24);}
+*/
+
+#image_overlay{padding:15px 57px 0 0; position:absolute;right:23px;top:40px;font-size: 30px;color:#fff;line-height: 40px;text-align: right;background: transparent url(img/white_dot.png) no-repeat 100% 23px;}
+#image_overlay span{font-size: 48px; font-weight: bold; color:#afafaf;}
+
+
+img.text_left{float:left;margin:4px 8px 8px 0;}
+
+p.divider{background: transparent url(img/dot.gif) repeat-x 0 0;height: 4px;float: none;clear:both;margin: 20px 0 17px;}
+
+.col_right div.left{float:left;width:396px;margin:0 6px 0 0;}
+.col_right div.right{float:right;width:396px;margin:0 0 0 5px;}
+
+#footer{text-align: center;padding:32px 0;background: transparent url(img/dot.gif) repeat-x 0 0;margin: 25px 0 0 0;}
+#footer a{color:#464646;}

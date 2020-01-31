@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE xhtml PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Admin Giriş Sayfası</title>
+        <h:outputStylesheet library="css" name="bootstrap.css"/>
+        <h:outputStylesheet library="css" name="style.css"/>
+    </h:head>
+    <h:body>
+        <div class="container">
+            <h:form>
+                <div  id="site">
+                    <div id="sitebosluk"></div>
+                    <div id="ortainput">
+                        <div id="kullaniciadi"> <label>Kullanıcı Adı</label>
+
+                            <div id="kullaniciadiinput"> <h:inputText styleClass="form-group" value="#{loginController.su.userName}"/></div>
+                        </div>
+
+                        <div id="sifre"><label>Şifre</label>
+                            <div id="sifreinput"><h:inputSecret styleClass="form-group" value="#{loginController.su.password}" /></div>
+                             
+                        </div>
+                       <div id="hata">
+                                <h:messages  errorStyle="color: red" infoStyle="color: red" layout="table"/>`<!--WRONG-->
+                            </div>
+                        </div>
+                        <div id="alt">
+                          
+                            <div id="girisyap"> <h:commandButton  value="Giriş Yap" action="#{loginController.girisKontrol()}"/></div>
+                              
+                    </div>
+                </div>
+
+            </h:form>
+        </div>
+    </h:body>
+</html>
